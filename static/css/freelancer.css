@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #1a242f;
 }
 h1,
 h2,
@@ -223,7 +223,7 @@ section.success {
   text-align: center;
   top: 50%;
   margin-top: -12px;
-  color: black;
+  color: white;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content i {
   margin-top: -12px;
